@@ -20,6 +20,12 @@ This is my react portfolio.
 ## INSTALLATION:
 Open up the terminal and enter: npm install.
 
+## Live Site:
+
+https://huntken26.github.io/hunter-portfolio
+
+![Hunter Portfolio (2)](https://user-images.githubusercontent.com/107738986/217126161-21aa4fb0-45dd-44b3-8c98-85510b955824.gif)
+
 
 ## USAGE/INSTRUCTIONS:
 Getting Started with Create React App
@@ -83,31 +89,18 @@ https://user-images.githubusercontent.com/107738986/207772516-8fef29a6-6111-4b3b
 
 ## CREDITS:
 emailjs, freecodecamp tutorial on react, react documentation, 
-tutor chris, https://bobangajicsm.github.io/portfolio/about.html
+tutor chris, https://bobangajicsm.github.io/portfolio/about.html,
+
 https://codesandbox.io/s/react-portfolio-bootstrap-pm4ts?file=/package.json, 
+
 https://react-bootstrap.github.io/forms/overview/
 
-dependecies include:
-react bootstrap
-https://medium.com/geekculture/how-to-send-emails-from-a-form-in-react-emailjs-6cdd21bb4190
+react bootstrap,
+
+https://medium.com/geekculture/how-to-send-emails-from-a-form-in-react-emailjs-6cdd21bb4190,
+
 animate.css
 
-
-https://mysql.tutorials24x7.com/blog/guide-to-design-a-database-for-blog-management-in-mysql
-
-https://medevel.com/open-source-solutions-to-build-your-own-social-network/
-
-https://medium.com/free-code-camp/building-a-chat-application-with-mean-stack-637254d1136d
-
-https://rapidapi.com/guides/ten-api-projects
-
-https://github.com/BulmaTemplates/bulma-templates/blob/master/templates/hero.html
-
-https://github.com/BulmaTemplates/bulma-templates/blob/master/templates/forum.html
-
-https://github.com/jakekelly44/tech-blog
-
-https://github.com/Huntken26/tech-blog
 
 ## LICENSES:
 

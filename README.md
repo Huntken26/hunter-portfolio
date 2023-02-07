@@ -18,7 +18,7 @@ This is my react portfolio.
 [questions](#questions)<br/>
 
 ## INSTALLATION:
-Open up the terminal and enter: npm install.
+Clone the repo, Open up the terminal and enter: npm install.
 
 ## Live Site:
 
@@ -88,14 +88,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 https://user-images.githubusercontent.com/107738986/207772516-8fef29a6-6111-4b3b-bb1e-2421bdf75470.mp4
 
 ## CREDITS:
-emailjs, freecodecamp tutorial on react, react documentation, 
-tutor chris, https://bobangajicsm.github.io/portfolio/about.html,
+
+Gratitude and thanks to my Instructor Kyle, TA Ethan and my tutor Chris.
+
+ https://bobangajicsm.github.io/portfolio/about.html,
 
 https://codesandbox.io/s/react-portfolio-bootstrap-pm4ts?file=/package.json, 
 
 https://react-bootstrap.github.io/forms/overview/
-
-react bootstrap,
 
 https://medium.com/geekculture/how-to-send-emails-from-a-form-in-react-emailjs-6cdd21bb4190,
 
@@ -112,7 +112,6 @@ animate.css
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" />
 
 ## TESTS:
 
@@ -120,7 +119,7 @@ N/A
 
 ## CONTRIBUTE:
 
-You can connect with me via gihub- https://github.com/Huntken26/project-2 <br/>
+You can connect with me via gihub- https://github.com/Huntken26 <br/>
 
 
 ## QUESTIONS:

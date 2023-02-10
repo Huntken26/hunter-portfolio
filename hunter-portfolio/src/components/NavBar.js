@@ -12,7 +12,7 @@ function NavBar() {
           <Nav.Link href="#about">About</Nav.Link>
           <Nav.Link href="#projects">Projects</Nav.Link>
           <Nav.Link href="#contact">Contact</Nav.Link>
-          <Nav.Link href="#resume">Resume</Nav.Link>
+          <Nav.Link href="https://docs.google.com/document/d/1_gxyKok86Q12vxlxo4zlTrzHp5G3M0JT/edit?usp=sharing&ouid=104734253715428602881&rtpof=true&sd=true">Resume</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

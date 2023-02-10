@@ -6,7 +6,6 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import ResumeModal from "./components/Resume";
 
 function App() {
   return (
@@ -16,7 +15,6 @@ function App() {
      < About />
      < Portfolio />
      < Contact />
-     < ResumeModal />
      < Footer />
     </div>
   );

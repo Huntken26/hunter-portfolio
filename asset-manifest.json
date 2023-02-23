@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/hunter-portfolio/static/css/main.5213efbe.css",
-    "main.js": "/hunter-portfolio/static/js/main.6d7875fd.js",
+    "main.js": "/hunter-portfolio/static/js/main.d5504266.js",
     "static/media/codio.gif": "/hunter-portfolio/static/media/codio.8a7470cf74d773aef946.gif",
     "static/media/weather.png": "/hunter-portfolio/static/media/weather.4d50eb707541560b4a64.png",
     "static/media/connexa.gif": "/hunter-portfolio/static/media/connexa.49a6e6142c9d059db548.gif",
     "static/media/csscheat.png": "/hunter-portfolio/static/media/csscheat.87556cc058de8bc708c4.png",
     "static/media/work.png": "/hunter-portfolio/static/media/work.15cfd3bd21c6a3888bec.png",
-    "static/media/coding.png": "/hunter-portfolio/static/media/coding.bbf7f440aededc8a7d03.png",
+    "static/media/tiktak.png": "/hunter-portfolio/static/media/tiktak.46830c0ac3d194ba3105.png",
     "index.html": "/hunter-portfolio/index.html",
     "main.5213efbe.css.map": "/hunter-portfolio/static/css/main.5213efbe.css.map",
-    "main.6d7875fd.js.map": "/hunter-portfolio/static/js/main.6d7875fd.js.map"
+    "main.d5504266.js.map": "/hunter-portfolio/static/js/main.d5504266.js.map"
   },
   "entrypoints": [
     "static/css/main.5213efbe.css",
-    "static/js/main.6d7875fd.js"
+    "static/js/main.d5504266.js"
   ]
 }

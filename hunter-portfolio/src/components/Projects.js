@@ -1,6 +1,6 @@
 
 import { Card, Button } from 'react-bootstrap';
-import coding from '../assets/coding.png';
+import tiktak from '../assets/tiktak.png';
 import codio from '../assets/codio.gif';
 import weather from '../assets/weather.png';
 import connexa from '../assets/connexa.gif';
@@ -50,13 +50,13 @@ const Portfolio = () => (
       </Card.Body>
     </Card>
     <Card style={{ width: "18rem" }} className="m-3">
-      <Card.Img variant="top" src= {coding} />
+      <Card.Img variant="top" src= {tiktak} />
       <Card.Body>
-        <Card.Title>Coding Quiz</Card.Title>
+        <Card.Title>Tik Tak Code</Card.Title>
         <Card.Text>
-          A fun interactive quiz which will test your knowledge of basic html, javascript and css knowledge.
+        This MERN app allows you to play tic tac toe against a simple A.I. and uses different technologies including the Ant Design UI, React, Stripe payments, Bootstrap, GraphQL, mongoose, etc...
         </Card.Text>
-        <Button variant="primary" href=' https://huntken26.github.io/coding-quiz/'>Check it out</Button> <Button variant="primary" href=' https://github.com/Huntken26/coding-quiz'>View Github</Button>
+        <Button variant="primary" href=' https://github.com/vivid20221/Tik-Tak-Code'>Check it out</Button> <Button variant="primary" href=' https://github.com/vivid20221/Tik-Tak-Code'>View Github</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: "18rem" }} className="m-3">
